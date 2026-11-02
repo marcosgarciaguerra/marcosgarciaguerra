@@ -1,85 +1,123 @@
-# Marcos García Guerra
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Marcos%20García%20Guerra&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Ingeniería%20Informática%20·%20Madrid&descAlignY=58&descSize=18&animation=fadeIn" alt="Banner" />
 
-**Third-Year Computer Engineering Student | Backend & DevOps Enthusiast**  
-📍 España  
+<div align="center">
 
-> *Construyendo sistemas eficientes, automatizando lo repetitivo y explorando la intersección entre código, infraestructura y creatividad.*
+<a href="https://github.com/marcosgarciaguerra">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Marcos+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Python+%C2%B7+Go+%C2%B7+JavaScript+%C2%B7+SQL;Creador+de+IKEA-Lang+%F0%9F%AA%91;Buscando+pr%C3%A1cticas+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+📍 Madrid, España · 🎓 Universidad Camilo José Cela · 🔎 En búsqueda activa de prácticas
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-garcia-guerra-aa1554333)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://marcosgarciaguerra.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosgar272006@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=marcosgarciaguerra&label=Visitas+al+perfil&color=7aa2f7&style=flat" alt="Visitas al perfil" />
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Estudiante de **3.º de Grado en Ingeniería Informática** (Especialidad Tecnologías de la Información) con pasión por:
+Estudiante de **Ingeniería Informática** con un perfil resolutivo, creativo y orientado a resultados. Me apasiona el desarrollo de software y enfrentarme a retos tecnológicos, desde diseñar un lenguaje de programación hasta desplegar aplicaciones web en la nube.
 
-- Desarrollo **backend** eficiente y herramientas **CLI** potentes.  
-- Arquitectura de software, integración de IA y buenas prácticas de código limpio.  
-- Accesibilidad web (**WCAG**) y cultura **DevOps** (CI/CD, contenedores, observabilidad).  
-- En tiempo libre: corredor de distancia (entrenando para mi primer maratón) y amante de proyectos **open source** ingeniosos y útiles.
+Actualmente estoy **buscando prácticas profesionales** donde colaborar en proyectos de impacto y aportar soluciones innovadoras.
+
+```python
+class Marcos:
+    def __init__(self):
+        self.ubicacion  = "Madrid, España 🇪🇸"
+        self.estudios   = "Grado en Ingeniería Informática @ UCJC (2028)"
+        self.intereses  = ["Bases de Datos", "Desarrollo Web", "IA", "Sistemas Distribuidos"]
+        self.idiomas    = {"Español": "Nativo", "Inglés": "B2"}
+        self.buscando   = "Prácticas profesionales 🚀"
+
+    def dato_curioso(self):
+        return "He creado un lenguaje de programación basado en montar muebles de IKEA 🪑"
+```
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Tecnologías
 
-### Lenguajes
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)  
-![Assembly](https://img.shields.io/badge/-Assembly-%23666666?logo=&logoColor=white)
+<div align="center">
 
-### Backend & Bases de datos
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-006699?logo=&logoColor=white)  
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+**Lenguajes**
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)  
-![Render](https://img.shields.io/badge/-Render-%2346E3B7?logo=render&logoColor=white)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-%23FF9900?logo=amazonaws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,go,mysql,r,html,css&perline=7" alt="Lenguajes" />
 
-### Herramientas & Arquitectura
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Linux/Bash](https://img.shields.io/badge/-Linux%2Fbash-%23FCC624?logo=linux&logoColor=black)  
-![UML](https://img.shields.io/badge/-UML-%2300529B?logo=&logoColor=white)  
-![Claude Code](https://img.shields.io/badge/-Claude%20Code-%236C4EE8?logo=&logoColor=white)  
-![Kiro CLI](https://img.shields.io/badge/-Kiro%20CLI-%2300BFA6?logo=&logoColor=white)  
-![Ollama](https://img.shields.io/badge/-Ollama-%238A2BE2?logo=&logoColor=white)
+**Herramientas y plataformas**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vercel,androidstudio,vscode&perline=7" alt="Herramientas" />
+
+**Hardware**
+
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="Hardware" />
+
+</div>
 
 ---
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías clave |
-|:---|:---|:---|
-| 🪑 **IKEA-Lang** | Lenguaje de programación esotérico inspirado en el montaje de muebles de IKEA. Incluye intérpretes en Python y Go, además de un IDE minimalista basado en Electron. | Python, Go, Electron, HTML/CSS/JS |
-| 📝 **opeNotas** | App de notas multiplataforma (Web + Android) con lienzo HTML5 Canvas, soporte de presión de stylus y exportación a PDF/PNG. | JavaScript, HTML5 Canvas, Capacitor, Node.js |
-| 🎲 **MesaPlay** | Plataforma web para jugar juegos de mesa en tiempo real, enfocada en UI/UX responsiva y alto rendimiento en navegador. | React, Tailwind CSS, WebSocket (Socket.io), Node.js |
-| 🏃 **Strava / Garmin Integrations** | Scripts y herramientas para extraer, visualizar y analizar métricas de entrenamientos (ritmo, zona de frecuencia cardía, elevación) y generar informes personalizados. | Python, Pandas, Plotly, OAuth2, Supabase |
+| Proyecto | Rol | Descripción | Stack |
+|:---|:---|:---|:---|
+| 🪑 **IKEA-Lang** | Creador y desarrollador | Lenguaje de programación esotérico con intérprete interactivo, inspirado en el montaje de muebles. Diseño de gramática e implementación del intérprete. | Python, Go, gramáticas, intérpretes |
+| 📝 **opeNotas** | Desarrollador principal | Aplicación móvil y web para tomar notas con dibujo sobre lienzo y almacenamiento local. | Android, Web, Canvas API |
+| 🎮 **MesaPlay** | Desarrollador web | Plataforma web de videojuegos para jugar en local, desplegada en la nube. 👉 [mesaplay.vercel.app](https://mesaplay.vercel.app) | JavaScript, HTML/CSS, Vercel |
 
-*(Más proyectos en mi repositorio público → [github.com/MarcosGuerra](https://github.com/MarcosGuerra))*
+---
+
+## 📜 Certificaciones
+
+- 🤖 **Getting Started with Artificial Intelligence** — IBM (2025)
+- 🗄️ **Aprende SQL: Curso completo** (2026)
+
+---
+
+## 💼 Experiencia
+
+**Socorrista** — SEAF Servicios Integrales SL · Madrid (2023)
+Gestión de situaciones de alta presión, supervisión continua de la seguridad y atención directa al cliente: responsabilidad, comunicación y trabajo bajo presión.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosGuerra&show_icons=true&theme=radical&hide_title=false&hide_rank=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosGuerra&layout=compact&theme=radical&hide=html)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosGuerra&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcosgarciaguerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgarciaguerra&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+
+<img src="https://streak-stats.demolab.com/?user=marcosgarciaguerra&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosgarciaguerra&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" />
+
+</div>
 
 ---
 
-## 📫 Contacto & Redes
+## 🐍 Mis contribuciones, devoradas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-guerra)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcos.guerra@example.com)  
-[![Strava](https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=white)](https://www.strava.com/athletes/marcossg)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?logo=vercel&logoColor=white)](https://marcosguerra.dev)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosgarciaguerra/marcosgarciaguerra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosgarciaguerra/marcosgarciaguerra/output/github-snake.svg" />
+  <img alt="Animación de la serpiente comiéndose las contribuciones" src="https://raw.githubusercontent.com/marcosgarciaguerra/marcosgarciaguerra/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-*Hecho con ❤️ y ☕ por Marcos García Guerra – 2026*
+<div align="center">
+
+### 📫 ¿Hablamos?
+
+Si tienes una oferta de prácticas o un proyecto interesante, escríbeme por [LinkedIn](https://www.linkedin.com/in/marcos-garcia-guerra-aa1554333) o a [marcosgar272006@gmail.com](mailto:marcosgar272006@gmail.com).
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=120&section=footer" alt="Footer" />
